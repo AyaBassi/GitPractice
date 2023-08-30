@@ -15,7 +15,7 @@ final class GitPracticeTests: XCTestCase {
     }
     
     func testExample2() throws {
-        XCTAssertEqual(3*3,9)
+        XCTAssertEqual(3*4,12)
     }
 
 }
