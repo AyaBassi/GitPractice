@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+GitPractice in GitPractice, no dependencies
+GitPracticeUITests in GitPractice, depends on:
+GitPractice in GitPractice (explicit)
+GitPracticeTests in GitPractice, depends on:
+GitPractice in GitPractice (explicit)
