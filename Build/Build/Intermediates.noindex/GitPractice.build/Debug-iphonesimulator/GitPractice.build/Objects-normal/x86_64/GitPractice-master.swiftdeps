@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "8634dfe1a298212ba6aaaa72a83a6f598d96335bdfc4bd3107c5046baf777fe8"
+build_start_time: [1693051903, 762614000]
+build_end_time: [1693051913, 669245000]
+inputs:
+  "/Users/ayabassi/Desktop/GitPractice/GitPractice/ContentView.swift": [1693049833, 73619788]
+  "/Users/ayabassi/Desktop/GitPractice/GitPractice/GitPracticeApp.swift": [1692973361, 889566856]
